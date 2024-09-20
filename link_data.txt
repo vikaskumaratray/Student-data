@@ -1,0 +1,14 @@
+President	Approve	Disapprove
+Trump,42%,53%
+Obama,69%,26%
+Bush,63%,32%
+Clinton,59%,39%
+Bushan,71%,22%
+Reagan,73%,19%
+Carter,63%,18%
+Ford,48%,32%
+Nixon,61%,12%
+Johnson,77%,9%
+Kennedy,78%,6%
+Eisenhower,73%,10%
+Truman,87%,3%
